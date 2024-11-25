@@ -7,5 +7,5 @@ It is not designed for general use, and is set up for me specifically
 
 Run this shell command, have nvim installed already.
 ```sh
-git clone https://github.com/ZachB-AUT/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone git@github.com:ZachB-AUT/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim 
 ```
